@@ -18,3 +18,6 @@ The repository contains the following files/contents:
 - Presentations
 - Project Report
 - Jupyter Notebooks with sequential coding
+
+***Link to the Institute's Project Repository :***
+https://github.com/B-TECH-2021-25-INT200/E-Traffic-Alert-System
